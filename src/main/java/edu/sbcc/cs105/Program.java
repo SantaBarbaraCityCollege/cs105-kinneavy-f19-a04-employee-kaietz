@@ -30,6 +30,6 @@ public class Program {
         harry.raiseSalary(10);
         double harrysSalary = harry.getSalary();
         System.out.println(harrysSalary);
-        System.out.println(employeeName);
+        
     }
 }
